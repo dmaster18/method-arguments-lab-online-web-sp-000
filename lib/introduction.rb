@@ -8,4 +8,4 @@ end
 
 introduction("Bob")
 
-introduction_with_language("Jose")
+introduction_with_language("Jose", "English")
